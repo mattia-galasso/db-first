@@ -8,5 +8,7 @@
 | year registration | YEAR         | NULL                          |             |
 | fuel type         | VARCHAR(50)  | NULL                          |             |
 | gear              | VARCHAR(20)  | NULL                          |             |
+| doors number      | TINYINT      | NULL                          |             |
+| owner number      | TINYINT      | NULL                          |             |
 | kilometers        | VARCHAR(20)  | NULL                          |             |
 | price             | FLOAT(10,2)  | NOTNULL                       |             |
